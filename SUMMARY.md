@@ -21,6 +21,15 @@
 * [Synthetic Assets](roadmap/synthetic-assets.md)
 * [Composability](roadmap/composability.md)
 
+## Contract API
+
+* [poolReward.sol](contract-api/poolreward.sol.md)
+* [dollarPolicy.sol](contract-api/dollarpolicy.sol.md)
+* [bond.sol](contract-api/bond.sol.md)
+* [seigniorageShares.sol](contract-api/seigniorageshares.sol.md)
+* [orchestrator.sol](contract-api/orchestrator.md)
+* [dollars.sol](contract-api/dollars.md)
+
 ---
 
 * [Dashboard](https://dollarprotocol.com)
