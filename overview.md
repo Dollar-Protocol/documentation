@@ -6,9 +6,9 @@ Dollar Protocol is a suite of decentralized algorithmic synthetic assets \(USD, 
 
 ![](.gitbook/assets/suite.svg)
 
-These represent the first of many synthetic currencies to be offered in a 100% non-custodial, algorithmic fashion. Each synthetic currency stands as its own unique ecosystem, with different parameters, incentives and end goals. Each currency is to be governed solely by Share token holders, who earn seigniorage profits from each ecosystem succeeding.
+These represent the first of many synthetic assets to be offered in a 100% non-custodial, algorithmic fashion. Each synthetic asset stands as its own unique ecosystem, with different parameters, incentives, and end goals. Each asset is to be governed solely by Share token holders, who earn seigniorage profits from each ecosystem succeeding.
 
-While there 3 announced synthetic currencies right now, there could theoretically be an infinite number, pegged to values of gold, silver, ETFs and more.
+While there 3 announced synthetic assets right now, there could theoretically be an infinite number, pegged to values of gold, silver, ETFs, and more.
 
 Governance is conducted on-chain in a decentralized fashion. Read our announcement on [Seigniorage Governor Alpha](https://dollarprotocol.medium.com/introducing-seigniorage-governor-alpha-e14c189993ab).
 
@@ -30,7 +30,7 @@ SHARE holders receive seigniorage profits from USDx and other tokens when they e
 
 **3: xBond**
 
-xBond serves as a fungible ERC-20 coupon-like instrument that pays seigniorage profits every positive rebase. xBonds never expire, but can be diluted. Please read about xBonds in detail here before minting or redeeming.
+xBond serves as a fungible ERC-20 coupon-like instrument that pays seigniorage profits every positive rebase. xBonds never expire, but can be diluted. Please read about xBonds in detail [here](https://docs.dollarprotocol.com/stabilization/xbond) before minting or redeeming.
 
 
 

@@ -4,6 +4,8 @@
 For more information, please read [our announcent on governance](https://dollarprotocol.medium.com/introducing-seigniorage-governor-alpha-e14c189993ab)
 {% endhint %}
 
+![](../.gitbook/assets/share_bg.png)
+
 There 3 phases for governance. 
 
 **Phase 1: Partial On-Chain Voting \(lasts 10 proposals\)**
