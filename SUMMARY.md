@@ -20,6 +20,5 @@
 
 * [Governance](roadmap/governance-roadmap.md)
 * [Synthetic Assets](roadmap/synthetic-assets.md)
-* [Token Bridges](roadmap/token-bridges.md)
 * [Composability](roadmap/composability.md)
 

@@ -4,6 +4,8 @@ description: Detailed Explanation of USDx (Dollars Token)
 
 # USDx
 
+![](../.gitbook/assets/usdx_bg.png)
+
 **USDx** is the object of stabilization for the USD synthetic asset in Dollar Protocol.
 
 * USDx Contract: [0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3](https://etherscan.io/address/0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3)
