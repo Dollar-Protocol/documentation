@@ -1,5 +1,5 @@
 ---
-description: An ecosystem of algorithmic stable coins governed by Share holders
+description: An ecosystem of algorithmic synthetic assets governed by Share holders
 ---
 
 # Dollar Protocol
