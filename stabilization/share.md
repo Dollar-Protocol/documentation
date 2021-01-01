@@ -4,8 +4,6 @@
 
 Share represents the governance token over the Dollar Protocol and subsequent synthetic ecosystems. It has the power to make proposals, delegate votes and vote, pass and execute protocol level amendments.
 
-It also has the ability to receive gas-less seigniorage from any of the synthetic tokens in the Dollar Protocol ecosystem.
-
 ### Staking
 
 NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE beforehand using the UI at [https://dollarprotocol/\#/stake](https://www.dollarprotocol/#/stake) so you are ready for the rewards.
@@ -21,15 +19,14 @@ Unstaking Share is a 2 step process.
 
 The 3 day minimum is also a governance parameter.
 
+* Staking Share locks any Share in your own wallet. If other users send you Share, it is automatically added to your Stake
+* Staked Share still has the ability to delegate and vote
+
 ### FAQs
 
-**I don't see my reward from holding Share? Where did it go?**
+**Why doesn't Staking Share send it to another contract?**
 
-The best way to see your reward is to connect your wallet to dollarprotocol.com and see the dashboard.
+The biggest reason why staking Shares isn't sent to another contract is that it will complicate the delegating / voting process. Staking's main benefit is that it causes Shares to be more scarce, as well as protecting against users who buy Shares just for gaming positive rebase periods for 15 minutes at a time.
 
-The second best way is to use a wallet like TrustWallet, which updates the balance in real time. You must remember to add the reward asset \(such as USDx\) by contract into the wallet as a custom token to register the new balance.
-
-MetaMask is a bit slow in our experience so don't be afraid if you don't see a reward immedietly.
-
-If everything else fails, send yourself a transaction for 0 Share, which will cause a state change and show you your rewards via transaction.
+In this sense, staking is more akin to locking.
 
