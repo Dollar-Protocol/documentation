@@ -14,6 +14,13 @@ Staking SHARE is a new governance proposal that passed recently. This proposal w
 
 The reward payout will still be pro-rata. Specifically, it will use the full total supply of 21M SHARE as the pro-rata denominator. This means part of the 21M SHARE seigniorage will be distributed to staked users, and the unstaked half will be burned. Over time, the market price of USDx will account for and balance out.
 
+Unstaking Share is a 2 step process.
+
+1. Commit to unstake \(3 days\). During this 3 day process, you will not receive any seigniorage reward. This timelock is to encourage users to remain staked.
+2. After the 3 day minimum has been met, users can fully unstake and start to trade, send or provide liquidity using Share.
+
+The 3 day minimum is also a governance parameter.
+
 ### FAQs
 
 **I don't see my reward from holding Share? Where did it go?**
