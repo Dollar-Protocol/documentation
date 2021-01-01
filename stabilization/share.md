@@ -6,6 +6,14 @@ Share represents the governance token over the Dollar Protocol and subsequent sy
 
 It also has the ability to receive gas-less seigniorage from any of the synthetic tokens in the Dollar Protocol ecosystem.
 
+### Staking
+
+NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE beforehand using the UI at [https://dollarprotocol/\#/stake](https://www.dollarprotocol/#/stake) so you are ready for the rewards.
+
+Staking SHARE is a new governance proposal that passed recently. This proposal will give seigniorage profits for SHARE only to staked SHARE. 
+
+The reward payout will still be pro-rata. Specifically, it will use the full total supply of 21M SHARE as the pro-rata denominator. This means part of the 21M SHARE seigniorage will be distributed to staked users, and the unstaked half will be burned. Over time, the market price of USDx will account for and balance out.
+
 ### FAQs
 
 **I don't see my reward from holding Share? Where did it go?**
