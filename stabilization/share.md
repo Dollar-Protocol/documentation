@@ -10,7 +10,7 @@ NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE befo
 
 Staking SHARE is a new governance proposal that passed recently. This proposal will give seigniorage profits for SHARE only to staked SHARE. 
 
-The reward payout will still be pro-rata. Specifically, it will use the full total supply of 21M SHARE as the pro-rata denominator. This means part of the 21M SHARE seigniorage will be distributed to staked users, and the unstaked half will be burned. Over time, the market price of USDx will account for and balance out.
+The reward payout will still be pro-rata. Specifically, it will use the full total supply of 21M SHARE as the pro-rata denominator. This means that if you staked Share, your pro-rata ownership of the seigniorage would be X / 21M. Unstaked Share will receive 0 seigniorage.
 
 Unstaking Share is a 2 step process.
 
