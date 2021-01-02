@@ -10,7 +10,7 @@ NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE befo
 
 Staking SHARE is a new governance proposal that passed recently. This proposal will give seigniorage profits for SHARE only to staked SHARE. 
 
-The reward payout will still be pro-rata. Specifically, it will use the full total supply of 21M SHARE as the pro-rata denominator. This means that if you staked Share, your pro-rata ownership of the seigniorage would be X / 21M. Unstaked Share will receive 0 seigniorage.
+The reward payout will still be pro-rata. Specifically, it will use the total staked share as the pro-rata denominator. This means that if 10M Share are staked, your pro-rata ownership of the seigniorage would be X / 10M. Unstaked Share will receive 0 seigniorage.
 
 Unstaking Share is a 2 step process.
 
@@ -21,6 +21,18 @@ The 3 day minimum is also a governance parameter.
 
 * Staking Share locks any Share in your own wallet. If other users send you Share, it is automatically added to your Stake
 * Staked Share still has the ability to delegate and vote
+
+### Claiming
+
+To claim your seigniorage, you can either:
+
+1: Click "Claim All Seigniorage"
+
+![](../.gitbook/assets/claim.png)
+
+2: Perform a state change operation using USDx or Share. For example, sending yourself 0 USDx or buying Share from an exchange.
+
+If you notice "Your Seigniorage" goes down to 0, your seigniorage must have been auto-claimed by the state change operation. Be sure to check incoming seigniorage transactions to your account from the [minter address](https://etherscan.io/address/0x0000000000000000000000000000000000000000), [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000).
 
 ### FAQs
 

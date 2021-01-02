@@ -9,6 +9,7 @@
 * [xBond](stabilization/xbond.md)
 * [Liquidity Provider \(LP\)](stabilization/lp.md)
 * [Share](stabilization/share.md)
+* [Rebasing](stabilization/rebasing.md)
 
 ## Governance
 
