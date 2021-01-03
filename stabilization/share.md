@@ -6,7 +6,7 @@ Share represents the governance token over the Dollar Protocol and subsequent sy
 
 ### Staking
 
-NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE beforehand using the UI at [https://dollarprotocol/\#/stake](https://www.dollarprotocol/#/stake) so you are ready for the rewards.
+NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE beforehand using the UI at [https://dollarprotocol.com/\#/stake](https://dollarprotocol.com/#/stake) so you are ready for the rewards.
 
 Staking SHARE is a new governance proposal that passed recently. This proposal will give seigniorage profits for SHARE only to staked SHARE. 
 
