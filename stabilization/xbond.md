@@ -4,13 +4,17 @@
 
 Contract: [0xa8f8dC37f3aB1F2357eC1B6345e02798b4124DCD](https://etherscan.io/token/0xa8f8dC37f3aB1F2357eC1B6345e02798b4124DCD)
 
-xBond is a fungible ERC-20 is a seigniorage bearing bond. You can think of it as a coupon.
+xBond is a fungible ERC-20 seigniorage bearing coupon. This coupon is unique because:
+
+* xBond doesn't expire
+* xBond serves as a type of "savings bank" if you mint during negative rebases, as your ratio never dips below 1:1
+* xBond receives 40% of seigniorage during positive rebase
 
 xBond can be minted, redeemed, and traded by anyone.
 
 The bonding curve for xBond is a piecewise function.
 
-1. During negative rebases, 1 USDx can only be minted 1 xBond
+1. During negative rebases, xBond mints at a 1:1 ratio with USDx \(1 USDx --&gt; 1 xBond\)
 2. During positive/neutral rebases, 1 USDx = xBond Amount \* Locked USD / xBond Supply
 
 $$
@@ -19,14 +23,14 @@ $$
 
 |  | Redeemable | Mintable | Bonding Curve |
 | :--- | :--- | :--- | :--- |
-| Positive Rebase | Yes | Yes | **f\(x\)** |
-| Neutral Rebase | No | Yes | **f\(x\)** |
-| Negative Rebase | No | Yes | 1:1 |
+| **+** Positive Rebase | Yes | Yes | **f\(x\)** |
+|    Neutral Rebase | No | Yes | **f\(x\)** |
+| **-** Negative Rebase | No | Yes | 1:1 |
 
 **f\(x\)** here represents the amount of USDx redeemed or minted.
 
 {% hint style="info" %}
-Redeeming xBonds burns xBonds and returns to you USDx according to the piecewise function
+Redeeming xBonds burns xBonds and returns to you USDx according to the bonding curve
 {% endhint %}
 
 ### FAQs
