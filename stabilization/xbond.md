@@ -12,7 +12,7 @@ xBond is a fungible ERC-20 seigniorage bearing coupon. This coupon is unique bec
 
 xBond can be minted, redeemed, and traded by anyone.
 
-![](../.gitbook/assets/xbond.png)
+![](../.gitbook/assets/xbond2.png)
 
 The bonding curve for xBond is a piecewise function.
 
