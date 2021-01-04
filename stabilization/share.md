@@ -6,7 +6,11 @@ Share represents the governance token over the Dollar Protocol and subsequent sy
 
 ### Staking
 
-NOTE: Staking will go live on 1/3/2020 5pm UTC. Be sure to stake your SHARE beforehand using the UI at [https://dollarprotocol.com/\#/stake](https://dollarprotocol.com/#/stake) so you are ready for the rewards.
+NOTE: Staking will go live on 1/4/2020 5pm UTC. Be sure to stake your SHARE beforehand using the UI at [https://dollarprotocol.com/\#/stake](https://dollarprotocol.com/#/stake) so you are ready for the rewards.
+
+{% hint style="info" %}
+Staking Share is binary; a wallet is either fully staked or not. This is because staked Share remains in a user's wallet instead of being sent to another contract. Keeping share in a user's wallets allows them to delegate and vote share, which is important. If you would like to have free-floating Share to trade, it is advisable to either unstake, or use a separate unstaked wallet.
+{% endhint %}
 
 Staking SHARE is a new governance proposal that passed recently. This proposal will give seigniorage profits for SHARE only to staked SHARE. 
 
@@ -35,6 +39,10 @@ To claim your seigniorage, you can either:
 If you notice "Your Seigniorage" goes down to 0, your seigniorage must have been auto-claimed by the state change operation. Be sure to check incoming seigniorage transactions to your account from the [minter address](https://etherscan.io/address/0x0000000000000000000000000000000000000000), [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000).
 
 ### FAQs
+
+**Why do I get a "The transaction can not succeed. Error undefined." error while trading on Uniswap?**
+
+Your wallet is staked and thus cannot trade Share tokens. Please consider unstaking or using a different unstaked wallet.
 
 **Why doesn't Staking Share send it to another contract?**
 
