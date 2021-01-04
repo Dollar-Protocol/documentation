@@ -34,6 +34,7 @@
 ---
 
 * [Dashboard](https://dollarprotocol.com)
+* [Audits](https://github.com/Dollar-Protocol/protocol/tree/main/audits)
 * [Telegram](https://t.me/dollarprotocol)
 * [Discord](https://discord.gg/3NJ3dJr)
 * [Twitter](https://twitter.com/DollarProtocol)
