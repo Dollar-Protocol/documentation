@@ -1,6 +1,6 @@
 # xBond
 
-![](../.gitbook/assets/bond.png)
+![](../.gitbook/assets/bondbg.png)
 
 Contract: [0xa8f8dC37f3aB1F2357eC1B6345e02798b4124DCD](https://etherscan.io/token/0xa8f8dC37f3aB1F2357eC1B6345e02798b4124DCD)
 
