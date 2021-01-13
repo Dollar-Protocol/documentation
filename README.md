@@ -16,7 +16,8 @@ As of 12/29/2020, only USD is live. EUR and YUAN will be launched after certain 
 
 Dollar Protocol has a number of features that make it unique.
 
-* **Decentralized** - the protocol upgrades contracts and amends protocol parameters thorugh [on-chain SHARE governance](https://dollarprotocol.com/#/governance)
+* **Decentralized** - the protocol upgrades contracts and amends protocol parameters through [on-chain SHARE governance](https://dollarprotocol.com/#/governance)
+* **Parametizable** - the protocol has multiple levers that SHARE holders can modify and change, including payout ratios, time delays and more
 * **Self-Stabilizing** - the synthetic assets uses on-chain price oracles
 * **Multi-Token** - the protocol separates users and stakeholders into distinct token groups with SHARE, USDx and xBOND
 * **Multi-Currency** - the protocol can issue multiple algorithmic synthetic assets, all of which can accrue value to Share holders
