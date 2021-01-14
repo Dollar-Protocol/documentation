@@ -18,10 +18,10 @@ The reward payout will still be pro-rata. Specifically, it will use the total st
 
 Unstaking Share is a 2 step process.
 
-1. Commit to unstake \(3 days\). During this 3 day process, you will not receive any seigniorage reward. This timelock is to encourage users to remain staked.
-2. After the 3 day minimum has been met, users can fully unstake and start to trade, send or provide liquidity using Share.
+1. Commit to unstake \(1.5 days\). During this 1.5 day process, you will not receive any seigniorage reward. This timelock is to encourage users to remain staked.
+2. After the 1.5 day minimum has been met, users can fully unstake and start to trade, send or provide liquidity using Share.
 
-The 3 day minimum is also a governance parameter.
+The 1.5 day minimum is also a governance parameter.
 
 * Staking Share locks any Share in your own wallet. If other users send you Share, it is automatically added to your Stake
 * Staked Share still has the ability to delegate and vote

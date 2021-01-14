@@ -66,8 +66,8 @@ Your USDx can be in 1 of 3 states.
 
 Important variables controlled by [Governance](https://docs.dollarprotocol.com/governance/parameters):
 
-* Minimum Stake Period \(432000 seconds or 5 days\) 
-* Minimum Cool Down Period \(432000 seconds or 5 days\)
+* Minimum Stake Period \(259200 seconds or 3 days\) 
+* Minimum Cool Down Period \(129600 seconds or 1.5 days\)
 * Staking Seigniorage Percentage
 
 ### Staked State
@@ -76,9 +76,9 @@ When a user stakes their USDx, that USDx is locked in the contract and earns pro
 
 ### Committed to Unstaking State
 
-The user can commit to unstaking after he has met the minimum stake period \(currently 5 days\).
+The user can commit to unstaking after he has met the minimum stake period \(currently 3 days\).
 
-Once the user has committed to unstaking, he cannot stake new USDx. During this commit period, the user must wait for the minimum cool down period \(currently 5 days also\). After this 5 day period is met, the user can unstake completely and get back his principle.
+Once the user has committed to unstaking, he cannot stake new USDx. During this commit period, the user must wait for the minimum cool down period \(currently 1.5 days\). After this 1.5 day period is met, the user can unstake completely and get back his principle.
 
 ### Unstaked State
 
