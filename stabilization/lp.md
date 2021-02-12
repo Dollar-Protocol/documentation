@@ -4,8 +4,7 @@ Liquidity Providers can earn seigniorage during positive rebases too. Currently,
 
 **Seigniorage Mining**
 
-* USDx-USDC: 30% of the positive seigniorage
-* SHARE-ETH: 10% of the positive seigniorage
+* USDx-USDC: 85% of the positive seigniorage
 
 These values can be changed via governance. The reasoning for providing more rewards for USDx-USDC is that SHARE's value depends on the stability and growth of USDx.
 

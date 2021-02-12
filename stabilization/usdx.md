@@ -54,35 +54,5 @@ If you have 1000 USDx in your wallet, un-bonded \(we will talk about this later 
 The USDx Debase will eventually be discontinued once the protocol matures past its bootstrapping phase. This will be explained more in the roadmap section with composability.
 {% endhint %}
 
-## Staking
-
-USDx can earn more USDx during positive rebases by staking on our dashboard. You can visit the link [https://dollarprotocol.com/\#/stake?usdx](https://dollarprotocol.com/#/stake?usdx) to stake USDx.
-
-Your USDx can be in 1 of 3 states.
-
-1. Staked
-2. Committed to Unstake
-3. Unstaked \(i.e. free-floating\)
-
-Important variables controlled by [Governance](https://docs.dollarprotocol.com/governance/parameters):
-
-* Minimum Stake Period \(259200 seconds or 3 days\) 
-* Minimum Cool Down Period \(129600 seconds or 1.5 days\)
-* Staking Seigniorage Percentage
-
-### Staked State
-
-When a user stakes their USDx, that USDx is locked in the contract and earns pro-rata seigniorage. The specific percentage is determined by governance. 
-
-### Committed to Unstaking State
-
-The user can commit to unstaking after he has met the minimum stake period \(currently 3 days\).
-
-Once the user has committed to unstaking, he cannot stake new USDx. During this commit period, the user must wait for the minimum cool down period \(currently 1.5 days\). After this 1.5 day period is met, the user can unstake completely and get back his principle.
-
-### Unstaked State
-
-By default, all USDx is unstaked. Unstaked USDx is just normal USDx that can be used to provide liquidity, exchanged/swapped and used as a form of virtual currency.
-
 
 
