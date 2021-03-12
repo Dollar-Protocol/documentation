@@ -3,12 +3,16 @@
 * [Dollar Protocol](README.md)
 * [Overview](overview.md)
 
-## Stabilization
+## x-series
 
-* [USDx](stabilization/usdx.md)
-* [Liquidity Provider \(LP\)](stabilization/lp.md)
-* [Share](stabilization/share.md)
-* [Rebasing](stabilization/rebasing.md)
+* [USDx](x-series/usdx.md)
+* [Liquidity Provider \(LP\)](x-series/lp.md)
+* [Share](x-series/share.md)
+* [Rebasing](x-series/rebasing.md)
+
+## f-series
+
+* [USDf](f-series/usdf.md)
 
 ## Governance
 
