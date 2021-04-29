@@ -1,6 +1,0 @@
-# dollars.sol
-
-coming soon
-
->
-

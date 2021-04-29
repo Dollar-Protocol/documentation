@@ -1,4 +1,0 @@
-# dollarPolicy.sol
-
-coming soon
-

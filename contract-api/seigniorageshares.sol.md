@@ -1,4 +1,0 @@
-# seigniorageShares.sol
-
-coming soon
-
