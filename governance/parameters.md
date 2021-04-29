@@ -6,8 +6,6 @@ For the latest list of parameters and calleable functions, please visit [Governa
 
 **dollars.sol**
 
-* bondToShareRatio \(uint256\)
-  * value between 0 - 100 that represents the percentage of positive rebase seigniorage given to xBond holders. 40 = 40% of positive rebase. The remaining 60% goes to liquidity providers \(LPs\) and Share holders
 * lpToShareRatio \(uint256\)
   * value between 0 - 100 that represents the percentage of the positive rebase seigniorage given to LPs as a whole, with the remaining seigniorarge.
   * For example, if value = 70, and bondToShareRatio = 40, then 70% of the remaining 60% goes to LPs as a whole. 60% \* 70% = 42% would go to LPs, which can then be subdivided by points later.

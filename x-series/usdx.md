@@ -46,10 +46,6 @@ Conversely, let's look at an example of a **negative rebase**:
 
 The supply delta would be \(0.90 - 1.00\) \* 15,000,000 / 7 = 214,285.71 USDx.
 
-If you have 1000 USDx in your wallet, un-bonded \(we will talk about this later in the xBond section\), you would see 14.28 USDx debase from your wallet, with a final balance of **985.72 USDx**.
-
-1000 USDx / 15,000,000 total USDx \* 214,285.71 USDx = **14.28 USDx**
-
 {% hint style="info" %}
 The USDx Debase will eventually be discontinued once the protocol matures past its bootstrapping phase. This will be explained more in the roadmap section with composability.
 {% endhint %}

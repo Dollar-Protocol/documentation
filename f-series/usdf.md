@@ -16,11 +16,11 @@ The community treasury is pre-filled with 10B Gaia tokens, which are worth rough
 
 The idea is that the community can use this as a balance sheet to allocate towards community hires for technology development, marketing as well as growing the community treasury.
 
-5B Gaia tokens are reserved for the team on a 4 year vesting schedule. The remaining 35B Gaia tokens are  in the farming contract [https://etherscan.io/address/0xa66949e08612a5e89f8a35301e2b8537f4ee996b](https://etherscan.io/address/0xa66949e08612a5e89f8a35301e2b8537f4ee996b), which is a non-upgradeable contract based on Sushi Swap's masterchef contract.
+5B Gaia tokens are reserved for the team on a 4 year vesting schedule. The remaining 35B Gaia tokens are  in the farming contract [https://etherscan.io/address/0x8f8Ff7757503e70621e4Ff5c09537FfBc3fdD28D](https://etherscan.io/address/0x8f8Ff7757503e70621e4Ff5c09537FfBc3fdD28D), which is a non-upgradeable contract based on Sushi Swap's masterchef contract.
 
-Users can farm Gaia by buying Gaia on the open market and providing USDf-Gaia liquidity on Uniswap.
+Users can farm Gaia by buying Gaia on the open market and providing liquidity on Uniswap V2.
 
-UI: [http://dollarprotocol.com/\#/stake?usdf-gaia](http://dollarprotocol.com/#/stake?usdf-gaia)
+UI: [https://www.dollarprotocol.com/\#/stake](https://www.dollarprotocol.com/#/stake)
 
-Farming commences at block [12071940](https://etherscan.io/block/countdown/12071940)
+Farming commences at block [12341940](https://etherscan.io/block/countdown/12341940)
 
